@@ -4,7 +4,7 @@
   "name": "GTCRN",
   "version": "1.0.0",
   "kind": "asset",
-  "license": "MIT",
+  "license": "LicenseRef-Upstream-Unstated",
   "compat": ">=0.1",
   "description": "Lightweight speech denoising / enhancement. Uses: noise suppression; voice isolation; dialogue cleanup.",
   "author": "HereLiesAz",
